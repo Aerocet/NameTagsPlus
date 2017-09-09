@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="NameTags+:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/NameTags__jar</output-path>
+    <root id="archive" name="NameTags+.jar">
+      <element id="module-output" name="NameTags+" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Dependencies/Java/spigot-1.12.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

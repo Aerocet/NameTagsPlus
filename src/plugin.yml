@@ -1,0 +1,4 @@
+name: NameTagsPlus
+version: 1.0
+main: me.AdamZeDuck.nametagsplus.NameTagsPlus
+depend: Vault
